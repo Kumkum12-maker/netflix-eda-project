@@ -37,7 +37,3 @@ How to Run
    pip install pandas matplotlib seaborn
 Open the notebook netflix_eda.ipynb in Jupyter Notebook
 Run the cells to reproduce the analysis and visualizations
-
-Author
-Kumkum Suvaisya
-Data Science Student
